@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323491836428",
+    "project_id": "stop-child-abuse-today-a30af",
+    "storage_bucket": "stop-child-abuse-today-a30af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323491836428:android:e3a78972a58e35063af429",
+        "android_client_info": {
+          "package_name": "com.example.stopchildabusetoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323491836428-86o439qqbu69tpfim9mvuih5gm90c3p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg1ossUnmg3OnFQjrdzPXVdkxvLRKobw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323491836428-86o439qqbu69tpfim9mvuih5gm90c3p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

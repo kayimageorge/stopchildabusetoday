@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".HelpFragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="@string/subject1"
+        android:layout_marginTop="30dp"
+
+        />
+
+    <EditText
+        android:id="@+id/edit_text_subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailSubject" />
+    <TextView
+        android:id="@+id/honep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/message1"
+        android:textColor="@color/white"
+
+        />
+
+    <EditText
+        android:id="@+id/edit_text_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lines="17"
+        android:gravity="start|top"/>
+    <Button
+        android:id="@+id/button_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send1"/>
+</LinearLayout>

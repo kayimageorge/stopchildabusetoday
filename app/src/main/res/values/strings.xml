@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">Stop Child Abuse Today</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="email">kayimageorge42@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="action_about">About</string>
+    <string name="action_cloud">Share Images</string>
+    <string name="action_eng">English</string>
+    <string name="action_lug">Luganda</string>
+    <string name="action_sw">Swahili</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_help">Help center</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_privacy">Privacy policy</string>
+    <string name="menu_terms">Terms of use</string>
+
+
+    <!-- home fragment -->
+    <string name="card1">Child Abuse</string>
+    <string name="card2">Types of Child Abuses</string>
+    <string name="card3">Child Rights</string>
+    <string name="card4">Report case</string>
+    <string name="card5">Videos About Child Abuse</string>
+    <string name="card6">Learn More Child Abuse </string>
+
+
+    <!-- feedback fragment -->
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+
+    <!-- help fragment -->
+    <string name="subject1">Subject</string>
+    <string name="message1">Message</string>
+    <string name="send1">Send</string>
+
+    <!-- types of child abuses -->
+    <string name="btn_physical">Physical</string>
+    <string name="btn_sexual">Sexual</string>
+    <string name="btn_emotional">Emotional</string>
+    <string name="btn_neglect">Child Neglect</string>
+    <string name="btn_cultural">Cultural</string>
+
+    <!-- child abuses -->
+    <string name="sub_title">Child Abuse</string>
+    <string name="txt_info1">Child abuse is the mistreatment of children</string>
+    <string name="sub_title2">Report Child Abuses</string>
+    <string name="txt_info2">If our Voices were low, Our walk is Louder Together. Its come to together and rise our voices.</string>
+    <string name="sub_title3">Its Anyones Business</string>
+    <string name="txt_info3">To stand against Child Abuse in Our communities</string>
+    <string name="sub_title4">Talk About Things that Matters</string>
+    <string name="txt_info4">According to MARTIN LUTHER KING, Our lives begin to end ,The day we become silent about things that matter</string>
+    <string name="learn_more">Learn more</string>
+
+
+    <!-- Videos -->
+    <string name="video_title">Information About the above video</string>
+    <string name="video_info">Lets stand together to end increasing child abuse cases in our community</string>
+    <string name="video_info2">Sexual</string>
+    <string name="video_info3">Sexual</string>
+
+
+    <string name="t2">Child Neglect</string>
+    <string name="qtn">What is Child Neglect?</string>
+    <string name="childNeglect">There are four types of neglect: physical neglect, medical neg- lect, educational neglect and emotional neglect"</string>
+    <string name="neglectDefinition">Child neglect is a form of abuse, an egregious behavior of caregivers (e.g., parents)
+        that results in a deprivation of child of their basic needs including the failure to provide adequate supervision,
+        health care, clothing, or housing, as well as other physical, emotional, social, educational, and safety needs.</string>
+
+    <string name="childNeglect2">Neglect is a pattern of failing to provide for a child\'s basic needs
+        It is abuse through omission; of not doing something resulting in significant harm or risk of significant harm.</string>
+
+    <string name="t1">Cultural Abuses</string>
+    <string name="qtn2">What is Cultural Abuse?</string>
+    <string name="culturalAbuse">Belittles your beliefs, practices and traditions. Prevents you from participating in spiritual or cultural traditions. Forces you to participate in practices (not your own)
+    Misstating or misusing spiritual practices against you. Practices bad medicine against you</string>
+
+    <string name="t3">Emotional Abuse</string>
+    <string name="qtn3">What is Emotional Abuse?</string>
+    <string name="emotionalAbuse">Emotional abuse is a way to control another person by using emotions to criticize, embarrass, shame, blame, or otherwise manipulate another person.</string>
+    <string name="emotinalAbuse2">In general, a relationship is emotionally abusive when there is a consistent pattern of abusive words and bullying behaviors that wear down a person\'s self-esteem and undermine their mental health.</string>
+
+    <string name="moreAboutEmotionalAbuse">Emotional abuse can involve any of the following: Verbal abuse: yelling at you, insulting you or swearing at you. Rejection: Constantly rejecting your thoughts, ideas and opinions. Gaslighting: making you doubt your own feelings and thoughts, and even your sanity, by manipulating the truth
+Child sexual abuse, also called child molestation, is a form of child abuse in which an adult or older adolescent uses a child for sexual stimulation</string>
+
+    <string name="t4">Physical Abuse</string>
+    <string name="qtn4">What is Physical Abuse?</string>
+    <string name="physicalAbuse">Physical abuse is any intentional act causing injury or trauma to another person or animal by way of bodily contact. In most cases, children are the victims of physical abuse, but adults can also be victims, as in cases of domestic violence or workplace aggression. Alternative terms sometimes used include physical assault or physical violence,
+    and may also include sexual abuse. Physical abuse may involve more than one abuser, and more than one victim.</string>
+
+    <!-- privacy fragment -->
+    <string name="privacy_tittle">Privacy policy</string>
+    <string name="privacy">Privacy Policy
+Kayima George built the End child abuse app as a Free app. This SERVICE is provided by Kayima George at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at End child abuse unless otherwise defined in this Privacy Policy.
+
+Information Collection and Use
+
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email,phone,name. The information that I request will be retained on your device and is not collected by me in any way.
+
+ </string>
+    <!-- terms fragment -->
+    <string name="terms_tittle">Privacy policy</string>
+
+    <string name="terms">Terms &amp; Conditions
+    By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Kayima George.</string>
+
+    <string name="obligationTerms">Kayima George is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.</string>
+
+    <string name="obligationTerms2">The End child abuse app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the End child abuse app won’t work properly or at all.</string>
+
+    <string name="thirdparty">The app does use third party services that declare their own Terms and Conditions.</string>
+
+    <string name="thirdparty2">Link to Terms and Conditions of third party service providers used by the app</string>
+
+
+    <!-- Child rights -->
+    <string name="child_rights">CHILD RIGHTS</string>
+    <string name="right1">1. Every child has the right to be born well.</string>
+    <string name="desc1">It is the responsibility of the parents to make sure they can provide a safe environment for their unborn child. This includes proper medical attention and care from conception,
+        birth, and throughout childhood years in a newborn services unit or pediatric center.</string>
+    <string name="right2">2. Every child has the right to a wholesome family life.</string>
+    <string name="desc2">The child’s first learning environment and teachers are their home and family. They are entitled
+        to be a part of a loving family that will instill ethical values and morals in them.</string>
+    <string name="right3">3. Every child has the right to be raised well and become contributing members of society.</string>
+    <string name="desc3">By raising them in a safe and loving environment, parents and guardians can shape the personalities
+        of their young to be useful and contributing members of their respective communities when they grow older.</string>
+    <string name="right4">4. Every child has the right to basic needs.</string>
+    <string name="desc4">The four basic needs of people outlined in the law are as follows: a balanced diet, adequate clothing,
+        sufficient shelter, and proper healthcare. This also includes any other requirements to lead a healthy and active life.</string>
+    <string name="right5">5. Every child has the right to access what they need to have a good life.</string>
+    <string name="desc5">This right goes beyond the basic needs and focuses more on the atmosphere of the place they will be raised in.
+        A child’s needs must always be attended to so they feel the support of people around them, which in turn
+        will build and strengthen their character in adulthood.</string>
+    <string name="right6">6. Every child has the right to education.</string>
+    <string name="desc6">In an ideal world, every child should have the means to go
+        to a classroom and have access to books and learning materials that can enrich their intelligence and skills.</string>
+    <string name="right7">7. Every child has the right to play and enjoy their youth.</string>
+    <string name="desc7">Children have the right to engage in wholesome recreational activities whenever they wish and
+    not be exploited for events that are deemed only for adults to do, i.e., intensive manual labor.</string>
+    <string name="right8">8. Every child has the right to be protected from danger.</string>
+    <string name="desc8">This includes all hazards that could affect their physical, mental, and emotional states, such as removing them from dangerous living situations,
+        preventing them from getting into accidents, or protecting them from the abuse of adults, to name a few.</string>
+    <string name="right9">9. Every child has the right to live in a productive environment.</string>
+    <string name="desc9">Children should be surrounded by safe communities that inspire them to give back when they are older.
+        This means staying away from bad influences and situations that can cause harm to their health.</string>
+    <string name="right10">10. Every child has the right to be cared for in the absence of their parent or guardian.</string>
+    <string name="desc10">If the parent or guardian fails to fulfill their role, the State shall assume custody and care for the child,
+        providing them with their fundamental needs for growth and development.</string>
+    <string name="right11">11. Every child has the right to good governance.</string>
+    <string name="desc11">Children also have a right to be born under the presence of good governance that can inspire them to become a helpful and active citizen. This doesn’t necessarily mean they have to get involved with
+        politics but rather have an interest in being involved in political discussions for the betterment of their country.</string>
+    <string name="right12">12. Every child has the right to freedom and peace.</string>
+    <string name="desc12">Last but not the least, every child is entitled to do whatever they want in their lives, so long as
+        it contributes to the peace and betterment of the communities they are a part of.</string>
+
+    <string name="ChildRights">Children\'s rights recognize fundamental guarantees to all human beings: the right to life, the non-discrimination principle, the right to dignity through the protection of physical and mental integrity (protection against slavery, torture and bad treatments, etc.
+Most children in Uganda have faced some form of violence – physical, sexual, emotional or domestic.
+    More than 8 million children, 51 per cent of the child population, are believed to be vulnerable.
+    Girls in particular are at risk of early marriage, teenage pregnancy and female genital mutilation/cutting.
+    Child marriage is rampant across Uganda and the UDHS (2011) indicates that 49 per cent of women aged 20-49 years
+    had got married before the age of 18 while 15 per cent of them got married by the age of 15 years.
+    This is also closely linked with a high rate of teenage pregnancy (24 per cent) and is among the highest in Africa.
+    This further aggravates maternal and under 5 mortality rates.
+</string>
+
+
+</resources>

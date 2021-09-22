@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stop Child Abuse Today</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="email">kayimageorge42@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_about">Kuhusu</string>
+    <string name="action_cloud">Acha Unyanyasaji wa Watoto Leo</string>
+    <string name="action_eng">English</string>
+    <string name="action_lug">Luganda</string>
+    <string name="action_sw">Swahili</string>
+
+    <string name="menu_home">Nyumbani</string>
+    <string name="menu_help">Kituo cha msaada</string>
+    <string name="menu_feedback">Maoni</string>
+    <string name="menu_privacy">Sera ya faragha</string>
+    <string name="menu_terms">Masharti ya matumizi</string>
+
+    <!-- home fragment -->
+    <string name="card1">Unyanyasaji wa Mtoto</string>
+    <string name="card2">Aina za Unyanyasaji wa Watoto</string>
+    <string name="card3">Haki za Mtoto</string>
+    <string name="card4">Ripoti kesi</string>
+    <string name="card5">Video Kuhusu Unyanyasaji wa Mtoto</string>
+    <string name="card6">Jifunze Zaidi Unyanyasaji wa Mtoto </string>
+
+    <!-- feedback fragment -->
+    <string name="subject">Mada</string>
+    <string name="message">Ujumbe</string>
+    <string name="send">Tuma</string>
+
+    <!-- help fragment -->
+    <string name="subject1">Mada</string>
+    <string name="message1">Ujumbe</string>
+    <string name="send1">Tuma</string>
+
+    <!-- types of child abuses -->
+    <string name="btn_physical">Kimwili</string>
+    <string name="btn_sexual">Kijinsia</string>
+    <string name="btn_emotional">Kihisia</string>
+    <string name="btn_neglect">Kupuuza Mtoto</string>
+    <string name="btn_cultural">Kitamaduni</string>
+
+    <!-- child abuses -->
+    <string name="sub_title">Unyanyasaji wa Mtoto</string>
+    <string name="txt_info1">Unyanyasaji wa watoto ni unyanyasaji wa watoto</string>
+    <string name="sub_title2">Ripoti Unyanyasaji wa Mtoto</string>
+    <string name="txt_info2">Ikiwa Sauti zetu zingekuwa za chini, Matembezi yetu ni Louder Pamoja. Yake huja pamoja na kuinua sauti zetu.</string>
+    <string name="sub_title3">Biashara yake ya Anyones</string>
+    <string name="txt_info3">Kusimama dhidi ya Unyanyasaji wa watoto katika jamii zetu</string>
+    <string name="sub_title4">Ongea Juu ya Mambo ambayo ni muhimu</string>
+    <string name="txt_info4">Kulingana na MARTIN LUTHER KING, Maisha yetu yanaanza kuisha, Siku tutakapokuwa kimya juu ya mambo ya muhimu</string>
+    <string name="learn_more">Jifunze zaidi</string>
+    <!-- Videos -->
+    <string name="video_title">Habari Kuhusu video hapo juu</string>
+    <string name="video_info">Wacha tusimame pamoja kumaliza visa vinavyoongezeka vya unyanyasaji wa watoto katika jamii yetu</string>
+    <string name="video_info2">Kijinsia</string>
+    <string name="video_info3">Kijinsia</string>
+
+    <string name="t2">Kupuuza Mtoto</string>
+    <string name="qtn">Kupuuza Mtoto</string>
+    <string name="childNeglect">Kuna aina nne za kupuuzwa: kupuuzwa kwa mwili, kupuuza matibabu, kupuuza elimu na kupuuza kihemko"</string>
+    <string name="neglectDefinition">Kupuuza watoto ni aina ya unyanyasaji, tabia mbaya ya walezi (kwa mfano, wazazi)
+        ambayo inasababisha kunyimwa kwa mtoto mahitaji yao ya msingi ikiwa ni pamoja na kutompa usimamizi wa kutosha,
+        huduma ya afya, mavazi, au makazi, na mahitaji mengine ya mwili, kihemko, kijamii, kielimu, na usalama.</string>
+
+    <string name="childNeglect2">Kupuuza ni mfano wa kushindwa kutoa mahitaji ya kimsingi ya mtoto
+        Ni unyanyasaji kupitia upungufu; ya kutofanya kitu kinachosababisha madhara makubwa au hatari ya madhara makubwa.</string>
+
+    <string name="t1">Unyanyasaji wa kitamaduni</string>
+    <string name="qtn2">Unyanyasaji wa kitamaduni</string>
+    <string name="culturalAbuse">Belittles imani yako, mazoea na mila. Inakuzuia kushiriki katika mila ya kiroho au kitamaduni. Inakulazimisha kushiriki katika mazoezi (sio yako mwenyewe)
+    Kupotosha au kutumia vibaya mazoea ya kiroho dhidi yako. Mazoezi ya dawa mbaya dhidi yako</string>
+
+    <string name="t3">Unyanyasaji wa Kihemko</string>
+    <string name="qtn3">Je! Unyanyasaji wa Kihemko ni nini?</string>
+    <string name="emotionalAbuse">Unyanyasaji wa kihemko ni njia ya kudhibiti mtu mwingine kwa kutumia hisia kukosoa, aibu,
+        aibu, lawama, au vinginevyo kumdanganya mtu mwingine.</string>
+    <string name="emotinalAbuse2">Kwa ujumla, uhusiano ni unyanyasaji wa kihemko wakati kuna msimamo
+        mfano wa maneno ya matusi na tabia za uonevu ambazo huharibu kujithamini kwa mtu na kudhoofisha afya ya akili.</string>
+
+    <string name="moreAboutEmotionalAbuse">Unyanyasaji wa kihemko unaweza kuhusisha yoyote ya yafuatayo: Unyanyasaji wa maneno:
+        kukupigia kelele, kukutukana au kukutukana. Kukataliwa: Kukataa mawazo yako kila wakati,
+        maoni na maoni. Taa ya gesi: kukufanya utilie shaka hisia na mawazo yako mwenyewe,
+        na hata akili yako timamu, kwa kutumia ukweli
+Unyanyasaji wa kijinsia wa watoto, pia huitwa unyanyasaji wa watoto, ni aina ya unyanyasaji wa watoto ambao mtu mzima au mzee
+        kijana hutumia mtoto kwa msisimko wa kijinsia</string>
+
+    <string name="t4">Unyanyasaji wa Kimwili</string>
+    <string name="qtn4">Je! Unyanyasaji wa Kimwili ni nini?</string>
+    <string name="physicalAbuse">Unyanyasaji wa mwili ni kitendo chochote cha kukusudia kinachosababisha jeraha au kiwewe kwa mwingine
+        mtu au mnyama kwa njia ya mawasiliano ya mwili. Katika hali nyingi, watoto ni wahasiriwa wa
+        unyanyasaji wa mwili, lakini watu wazima pia wanaweza kuwa wahasiriwa, kama katika visa vya unyanyasaji wa nyumbani
+        au uchokozi mahali pa kazi. Maneno mbadala wakati mwingine hutumiwa ni pamoja na kushambuliwa kimwili au unyanyasaji wa mwili,
+    na inaweza pia kujumuisha unyanyasaji wa kijinsia. Unyanyasaji wa mwili unaweza kuhusisha zaidi ya mnyanyasaji mmoja, na zaidi ya mwathiriwa mmoja.</string>
+
+    <!-- privacy fragment -->
+    <string name="privacy_tittle">Sera ya faragha</string>
+    <string name="privacy">Sera ya faragha
+Kayima George aliunda programu ya Mwisho ya unyanyasaji wa watoto kama programu ya Bure. HUDUMA hii imetolewa
+        na Kayima George bila gharama yoyote na imekusudiwa kutumiwa kama ilivyo.
+Ukurasa huu unatumiwa kuwaarifu wageni kuhusu sera zangu na ukusanyaji, matumizi, na ufichuzi wa
+        Maelezo ya Kibinafsi ikiwa mtu yeyote ameamua kutumia Huduma yangu.
+Ikiwa unachagua kutumia Huduma yangu, basi unakubali ukusanyaji na utumiaji wa habari kuhusiana na sera hii.
+        Maelezo ya Kibinafsi ambayo ninakusanya hutumiwa kwa kutoa na kuboresha Huduma.
+        Sitatumia au kushiriki habari yako na mtu yeyote isipokuwa ilivyoelezwa katika Sera hii ya Faragha.
+Masharti yaliyotumiwa katika Sera hii ya Faragha yana maana sawa na katika Masharti na Masharti yetu,
+        ambayo inapatikana wakati wa Kumaliza unyanyasaji wa watoto isipokuwa kama ilivyoelezwa katika Sera hii ya Faragha.
+Ukusanyaji wa Habari na Matumizi
+Kwa uzoefu bora, wakati tunatumia Huduma yetu, naweza kukuhitaji utupe hakika
+        habari inayotambulika ya kibinafsi, pamoja na lakini sio mdogo kwa barua pepe, simu, jina.
+        Habari ambayo ninaomba itahifadhiwa kwenye kifaa chako na haikusanywa na mimi kwa njia yoyote.
+ </string>
+
+    <!-- terms fragment -->
+    <string name="terms_tittle">Sera ya faragha</string>
+
+    <string name="terms">Masharti  amp; Masharti
+    Kwa kupakua au kutumia programu, sheria hizi zitatumika kwako moja kwa moja - kwa hivyo unapaswa kuhakikisha kuwa unazisoma
+        kwa uangalifu kabla ya kutumia programu. Hauruhusiwi kunakili, au kurekebisha programu, sehemu yoyote ya programu, au alama za biashara zetu kwa njia yoyote.
+        Hauruhusiwi kujaribu kutoa nambari chanzo ya programu, na pia haupaswi kujaribu kutafsiri faili ya
+        programu kwa lugha zingine, au tengeneza matoleo yanayotokana. Programu yenyewe, na alama zote za biashara, hakimiliki, hifadhidata
+        haki na haki miliki zingine zinazohusiana nayo, bado ni mali ya Kayima George.</string>
+
+    <string name="obligationTerms">Kayima George amejitolea kuhakikisha kuwa programu hiyo ni muhimu na inayofaa iwezekanavyo.
+        Kwa sababu hiyo, tuna haki ya kufanya mabadiliko kwenye programu au kutoza huduma zake, wakati wowote na kwa
+        sababu yoyote. Hatutakulipisha kamwe kwa programu au huduma zake bila kukuonyesha wazi kabisa ni nini unacholipia.</string>
+
+    <string name="obligationTerms2">Programu ya Mwisho ya unyanyasaji wa watoto huhifadhi na kuchakata data ya kibinafsi ambayo umetupatia,
+        ili kutoa Huduma yangu. Ni jukumu lako kuweka simu yako na ufikiaji wa programu salama.
+        Kwa hivyo tunapendekeza usifanye mapumziko ya gereza au usizike simu yako, ambayo ndio mchakato
+        ya kuondoa vizuizi vya programu na vikwazo vinavyowekwa na mfumo rasmi wa uendeshaji wa kifaa chako.
+        Inaweza kuifanya simu yako kuathiriwa na programu hasidi / virusi / programu hasidi, kuhatarisha usalama wa simu yako
+        na inaweza kumaanisha kuwa Programu ya Kukomesha unyanyasaji wa watoto haitafanya kazi vizuri au kabisa.</string>
+
+    <string name="thirdparty">Programu hutumia huduma za mtu wa tatu ambazo zinatangaza Kanuni na Masharti yao wenyewe.</string>
+
+    <string name="thirdparty2">Unganisha kwa Masharti na Masharti ya watoa huduma wa tatu wanaotumiwa na programu</string>
+
+    <!-- Child rights -->
+    <string name="child_rights">HAKI ZA MTOTO</string>
+    <string name="right1">1. Kila mtoto ana haki ya kuzaliwa vizuri.</string>
+    <string name="desc1">Ni jukumu la wazazi kuhakikisha wanaweza kutoa mazingira salama kwa mtoto wao ambaye hajazaliwa. Hii ni pamoja na matibabu na utunzaji sahihi kutoka kwa ujauzito,
+        kuzaliwa, na kwa miaka yote ya utoto katika kitengo cha huduma za watoto wachanga au kituo cha watoto.</string>
+    <string name="right2">2. Kila mtoto ana haki ya kuishi maisha ya kifamilia.</string>
+    <string name="desc2">Mazingira ya kwanza ya kujifunzia ya mtoto na waalimu ni nyumba yao na familia. Wana haki
+        kuwa sehemu ya familia yenye upendo ambayo itaingiza maadili na maadili ndani yao.</string>
+    <string name="right3">3. Kila mtoto ana haki ya kulelewa vizuri na kuwa mwanajamii anayechangia.</string>
+    <string name="desc3">Kwa kuwalea katika mazingira salama na ya upendo, wazazi na walezi wanaweza kuunda haiba
+        ya vijana wao kuwa muhimu na kuchangia wanachama wa jamii zao wanapokua wazee.</string>
+    <string name="right4">4. Kila mtoto ana haki ya kupata mahitaji ya kimsingi.</string>
+    <string name="desc4">Mahitaji manne ya kimsingi ya watu yaliyoainishwa katika sheria ni kama ifuatavyo: lishe bora, mavazi ya kutosha,
+        makazi ya kutosha, na utunzaji sahihi wa afya. Hii pia inajumuisha mahitaji mengine yoyote ya kuongoza maisha yenye afya na hai.</string>
+    <string name="right5">5. Kila mtoto ana haki ya kupata kile anachohitaji ili awe na maisha mazuri.</string>
+    <string name="desc5">Haki hii inapita zaidi ya mahitaji ya kimsingi na inazingatia zaidi mazingira ya mahali watakapolelewa.
+        Mahitaji ya mtoto lazima yazingatiwe kila wakati ili waweze kuhisi msaada wa watu walio karibu nao, ambayo pia
+        itajenga na kuimarisha tabia zao katika utu uzima.</string>
+    <string name="right6">6. Kila mtoto ana haki ya kupata elimu.</string>
+    <string name="desc6">Katika ulimwengu mzuri, kila mtoto anapaswa kuwa na njia ya kwenda
+        darasani na kupata vitabu na vifaa vya kujifunzia ambavyo vinaweza kuimarisha akili na ujuzi wao.</string>
+    <string name="right7">7. Kila mtoto ana haki ya kucheza na kufurahiya ujana wake.</string>
+    <string name="desc7">Watoto wana haki ya kushiriki katika shughuli nzuri za burudani wakati wowote wanapotaka na
+    kutotumiwa kwa hafla ambazo zinachukuliwa kwa watu wazima tu kufanya, yaani, kazi kubwa ya mikono.</string>
+    <string name="right8">8. Kila mtoto ana haki ya kulindwa kutokana na hatari.</string>
+    <string name="desc8">Hii ni pamoja na hatari zote ambazo zinaweza kuathiri hali zao za mwili, kiakili, na kihemko, kama vile kuziondoa katika hali hatari za kuishi,
+        kuwazuia kupata ajali, au kuwalinda kutokana na dhuluma za watu wazima, kutaja wachache.</string>
+    <string name="right9">9. Kila mtoto ana haki ya kuishi katika mazingira yenye tija.</string>
+    <string name="desc9">Watoto wanapaswa kuzungukwa na jamii salama ambazo zinawahamasisha kurudisha wakiwa wazee.
+        Hii inamaanisha kukaa mbali na ushawishi mbaya na hali ambazo zinaweza kusababisha madhara kwa afya zao.</string>
+    <string name="right10">10. Kila mtoto ana haki ya kutunzwa bila mzazi wake au mlezi wake.</string>
+    <string name="desc10">Ikiwa mzazi au mlezi atashindwa kutekeleza jukumu lake, Serikali itachukua malezi na kumtunza mtoto,
+        kuwapatia mahitaji yao ya kimsingi kwa ukuaji na maendeleo.</string>
+    <string name="right11">11. Kila mtoto ana haki ya utawala bora.</string>
+    <string name="desc11">Watoto pia wana haki ya kuzaliwa chini ya uwepo wa utawala bora ambao unaweza kuwahamasisha kuwa raia wa kusaidia na mwenye bidii. Hii haimaanishi lazima wajihusishe
+        siasa lakini badala yake wana nia ya kushiriki katika majadiliano ya kisiasa kwa maendeleo ya nchi yao.</string>
+    <string name="right12">12. Kila mtoto ana haki ya uhuru na amani.</string>
+    <string name="desc12">Mwisho lakini sio uchache, kila mtoto ana haki ya kufanya chochote anachotaka maishani mwake, ilimradi tu
+        inachangia amani na uboreshaji wa jamii ambazo ni sehemu yao.</string>
+
+    <string name="ChildRights">Haki za watoto zinatambua dhamana za kimsingi kwa wanadamu wote: haki ya kuishi, kanuni isiyo ya ubaguzi, haki ya utu kupitia ulinzi wa uadilifu wa mwili na akili (kinga dhidi ya utumwa, mateso na matibabu mabaya, n.k.
+Watoto wengi nchini Uganda wamekabiliwa na aina fulani ya vurugu- za kimwili, za kingono, za kihisia au za nyumbani.
+    Zaidi ya watoto milioni 8, asilimia 51 ya idadi ya watoto, wanaaminika kuwa hatarini.
+    Wasichana haswa wako katika hatari ya kuolewa mapema, mimba za utotoni na ukeketaji / ukataji.
+    Ndoa za utotoni zimeenea kote Uganda na UDHS (2011) inaonyesha kuwa asilimia 49 ya wanawake wenye umri wa miaka 20-49
+    alikuwa ameoa kabla ya umri wa miaka 18 wakati asilimia 15 yao waliolewa na umri wa miaka 15.
+    Hii pia inahusishwa kwa karibu na kiwango cha juu cha ujauzito wa utotoni (asilimia 24) na ni kati ya ya juu zaidi barani Afrika.
+    Hii inazidisha viwango vya vifo vya akina mama na chini ya miaka 5.
+</string>
+
+</resources>
